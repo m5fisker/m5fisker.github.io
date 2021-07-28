@@ -1,9 +1,9 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
-
-baseurl: /gradfolio #name of GitHub repository
+title: Kumar Soorya
+description: Cyber Security Enthusiast | MIT Unimelb | Education Officer MISC
+ 
+baseurl:  #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
@@ -21,8 +21,8 @@ facebook: "#"
 twitter: "#"
 linkedin: "#"
 github: "#"
-researchgate: "#"
-orcid: "#"
+# researchgate: "#"
+# orcid: "#"
 
 highlighter: rouge
 markdown: kramdown
